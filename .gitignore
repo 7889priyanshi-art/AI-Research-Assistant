@@ -1,0 +1,11 @@
+venv/
+.vscode/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+*.npy
+# Large generated files
+data/ml_arxiv_papers.csv
+data/cleaned_arxiv_papers.csv
+data/paper_faiss.index
+data/arxiv_embeddings.npy
